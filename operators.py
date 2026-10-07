@@ -38,4 +38,4 @@ print(number)
 
 print( 30 >20 and 56==10 )
 print( 30 >20 or 56==10 )
-print( not(30 >20 and 56==10) )
+print( not(30 >20 and 56==10))
